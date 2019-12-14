@@ -1,4 +1,4 @@
-
+console.log('Git wokring fine')
 const weatherForum = document.querySelector('form')
 const input = document.querySelector('input')
 const message1 = document.querySelector('#message_1')
