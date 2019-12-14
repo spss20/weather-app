@@ -1,0 +1,15 @@
+
+img {
+    width: 400px;
+}
+
+body {
+    color : #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 650px;
+}
+
+div {
+    margin: 16px 0;
+}
